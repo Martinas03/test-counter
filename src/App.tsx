@@ -9,6 +9,7 @@ export function App() {
             <Counter />
             <Counter />
             <div>commit for dev 2</div>
+            <div>commit for dev 3</div>
         </div>
         )
 
