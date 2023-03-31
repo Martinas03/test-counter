@@ -1,5 +1,4 @@
-import React, {useState} from 'react';
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import {Counter} from "./components/counter/Counter";
 
@@ -9,6 +8,7 @@ export function App() {
             <Counter />
             <Counter />
             <Counter />
+            <div>commit for dev 2</div>
         </div>
         )
 
