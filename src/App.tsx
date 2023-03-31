@@ -8,7 +8,7 @@ export function App() {
         <div>
             <Counter />
             <Counter />
-            <Counter />
+            {/*<Counter />*/}
         </div>
         )
 
